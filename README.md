@@ -1,4 +1,4 @@
-# T1 – Static Website Project
+# Wave-Animation – Static Website Project
 
 ## 📌 Project Overview
 This is a simple and clean **static website** built using **HTML and CSS**.  
@@ -37,4 +37,5 @@ This project is useful for:
 ---
 
 ⭐ Feel free to star the repository if you find it useful!
+
 
